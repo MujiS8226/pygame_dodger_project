@@ -35,7 +35,7 @@
 <br />
 
 ## Dependencies
-* Python 3.x ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+* Python 3.x
 * pygame, random, time, sys packages
 <br />
 
@@ -49,5 +49,6 @@ Mujie Shen - [GitHub](https://github.com/Muji8226) - [LinkedIn](http://www.linke
 * Stack Overflow. [https://stackoverflow.com/]
 * Hover Button in Pygame, GeeksforGeeks. [https://www.geeksforgeeks.org/hover-button-in-pygame/]
 * HOW TO MAKE A MENU SCREEN IN PYGAME! baraltech, YouTube. [https://www.youtube.com/watch?v=GMBqjxcKogA]
-* [Img Shields](https://shields.io)
+* Icon Pack: Space | Flat, monkik. Flaticon. [https://www.flaticon.com/packs/space-85]
+
 
