@@ -4,7 +4,7 @@
   <h1 align="center">Pygame Dodger Project</h1>
 
   <p align="center">
-    A project using mainly pygame module to create a space dodging game. The player will control the spaceship to avoid falling stars in a limited range, while appreciating the beauty of the space.
+    A project using mainly pygame library to create a space dodging game. The player will control the spaceship to avoid falling stars in a limited range, while appreciating the beauty of the space.
     <br />
     <img src="./img/GamePlay_preview.png" alt="GamePlay Preview" width="200" height=auto>
   </p>
