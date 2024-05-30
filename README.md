@@ -6,7 +6,7 @@
   <p align="center">
     A project using mainly pygame module to create a space dodging game. The player will control the spaceship to avoid falling stars in a limited range, while appreciating the beauty of the space.
     <br />
-    <img src="dashboard_preview.png" alt="Dashboard Preview" width="720" height=auto>
+    <img src="/img/dashboard_preview.png" alt="GamePlay Preview" width="720" height=auto>
   </p>
 </div>
 
@@ -30,7 +30,7 @@ Future changes I want to add on:
 - Player can control the spaceship's direction by pressing the arrow keys or the WASD keys.
 - The spaceship is only allowed to move within the bottom part of the screen.
 - Dodge the falling stars. Be careful! The amount of stars and the speed of falling are increasing overtime.
-- The planets passing by are just there for, well, appreciation.
+- The planets passing by are just there for, well, appreciation. Make sure to not get distracted by them!
 - Enjoy the space journey!
 
 
