@@ -6,7 +6,7 @@
   <p align="center">
     A project using mainly pygame module to create a space dodging game. The player will control the spaceship to avoid falling stars in a limited range, while appreciating the beauty of the space.
     <br />
-    <img src="./img/dashboard_preview.png" alt="GamePlay Preview" width="720" height=auto>
+    <img src="./img/GamePlay_preview.png" alt="GamePlay Preview" width="720" height=auto>
   </p>
 </div>
 
