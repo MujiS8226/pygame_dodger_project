@@ -23,7 +23,10 @@ Future changes I want to add on:
 
 ## How to Play
 - Have Python installed on your machine.
-- Run the script: python flying_to_the_moon.py
+- Run the script:
+  ```sh
+  python flying_to_the_moon.py
+  ```
 - Player can control the spaceship's direction by pressing the arrow keys or the WASD keys.
 - The spaceship is only allowed to move within the bottom part of the screen.
 - Dodge the falling stars. Be careful! The amount of stars and the speed of falling are increasing overtime.
@@ -32,8 +35,7 @@ Future changes I want to add on:
 
 
 ## Dependencies
-* Python 3.x
-* * ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+* Python 3.x ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 * pygame, random, time, sys packages
 
 ## Contact
