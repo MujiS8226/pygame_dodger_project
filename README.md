@@ -12,6 +12,14 @@
 
 ## Description
 "Flying to the Moon" is a 2D computer game developed using Python and the Pygame library. The player controls a spaceship navigating through space, avoiding falling stars and c. The game increases in difficulty over time, challenging players to survive as long as possible.
+For now, the way to play is simple: you dodge the stars until you don't. 
+Future changes I want to add on:
+* Reduce background glitches while scrolling.
+* Destination point on the moon after a long ride.
+* Magical items that boost the spaceship in various ways.
+* Best score shown at the main menu.
+* Skins for the spaceship.
+
 
 ## How to Play
 - Have Python installed on your machine.
@@ -24,7 +32,18 @@
 
 
 ## Dependencies
-- Python
+* Python 3.x
+* * ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+* pygame, random, time, sys packages
 
-## Acknowledgements
-- This project was created independently to demonstrate the use of Python for game development and to put programming skills into practice.
+## Contact
+Mujie Shen - [GitHub](https://github.com/Muji8226) - [LinkedIn](http://www.linkedin.com/in/mujie-shen/)
+
+## Acknowledgement
+- This project was created to demonstrate the use of Python for game development and to put programming skills into practice. Many helps were received through various online resources during its development. Below are the main references that provided me with great technical support:
+* Coding with Russ, YouTube. [https://www.youtube.com/@CodingWithRuss]
+* Stack Overflow. [https://stackoverflow.com/]
+* GeeksforGeeks, Hover Button in Pygame. [https://www.geeksforgeeks.org/hover-button-in-pygame/]
+* HOW TO MAKE A MENU SCREEN IN PYGAME! baraltech, YouTube. [https://www.youtube.com/watch?v=GMBqjxcKogA]
+* [Img Shields](https://shields.io)
+
