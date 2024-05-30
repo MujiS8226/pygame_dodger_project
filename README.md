@@ -38,9 +38,11 @@
 * Python 3.x ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 * pygame, random, time, sys packages
 <br />
+
 ## Contact
 Mujie Shen - [GitHub](https://github.com/Muji8226) - [LinkedIn](http://www.linkedin.com/in/mujie-shen/)
 <br />
+
 ## Acknowledgement
 - This project was created to demonstrate the use of Python for game development and to put programming skills into practice. Many helps were received through various online resources during its development. Below are the main references that provided me with great technical support:
 * Coding with Russ, YouTube. [https://www.youtube.com/@CodingWithRuss]
